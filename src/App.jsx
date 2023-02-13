@@ -10,6 +10,6 @@ const App = () => {
       <ItemListContainer greating="Bienvenidos"/>
     </>
   );
-};
+}
 
-export default App
+export default App;

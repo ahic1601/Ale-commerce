@@ -1,9 +1,9 @@
 import React from 'react'
 
-const ItemListContainer = (greating) => {
+const ItemListContainer = ({greating}) => {
   return (
     <div>
-        <h3>{}</h3>
+        <h1>{greating}</h1>
     </div>
   )
 }

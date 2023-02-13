@@ -8,7 +8,7 @@ import NavDropdown from "react-bootstrap/NavDropdown";
 const NavBar = () => {
   return (
     <>
-      <Navbar bg="light" expand="lg">
+      <Navbar className="navBar" bg="primary" variant="dark" expand="lg">
         <Container>
           <Navbar.Brand href="#home">Mi e-commerce</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
@@ -25,9 +25,9 @@ const NavBar = () => {
               </NavDropdown>
             </Nav>
           </Navbar.Collapse>
+          <CartWidget />
         </Container>
       </Navbar>
-      <CartWidget />
     </>
   );
 };
