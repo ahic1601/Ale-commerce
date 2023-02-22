@@ -1,0 +1,55 @@
+[
+  { 
+    "id": 1, 
+    "title": "Ibuprofeno 600 mg x 10 comprimidos",
+    "img":"https://cdn.batitienda.com/baticloud/images/product_picture_d4c383c78f024b7da06b13f1d6649d7f_637795061589506994_0_m.jpg", 
+    "price": 800,
+    "category": "AINEs" ,
+    "description": "El ibuprofeno es un antiinflamatorio no esteroideo (AINE), utilizado frecuentemente como antipirético, analgésico y antiinflamatorio.",
+    "stock": 5
+  },
+  { 
+    "id": 2, 
+    "title": "Paracetamol 500 mg x 20 comprimidos",
+    "img":"https://pedidosfarma.vtexassets.com/arquivos/ids/191242-800-auto?v=637953135258000000&width=800&height=auto&aspect=true", 
+    "price": 800, 
+    "category": "AINEs" , 
+    "description": "Paracetamol, también conocido como acetaminofén o acetaminofeno o p-Acetilaminofenol, es un fármaco con propiedades analgésicas y antipiréticas utilizado principalmente para tratar la fiebre y el dolor leve y moderado.",
+    "stock": 5
+  },
+  { 
+    "id": 3, 
+    "title": "Diclofenac 50 mg x 30 comprimidos",
+    "img":"https://geminisfarmaceutica.com.ar/wp-content/uploads/2016/09/productos22.jpg", 
+    "price": 1200, 
+    "category": "AINES" , 
+    "description": "Diclofenaco es un miembro de la familia de los antiinflamatorios no esteroideos (AINE). Está indicado para reducir inflamaciones y como analgésico.",
+    "stock": 5
+  },
+  { "id": 4, 
+    "title": "Omeprazol 20 mg x 30 comprimidos",
+    "img":"https://www.farmaciasdrahorro.com.ar/wp-content/uploads/2020/11/TREG-20-MG-X-30-CAPS.png", 
+    "price": 1000, 
+    "category": "Protector gastrico" , 
+    "description": "Omeprazol se utiliza en el tratamiento de la dispepsia, mas conocido como acidez estomacal y tambien en la úlcera péptica, enfermedades por reflujo gastroesofágico y el síndrome de Zollinger-Ellison.",
+    "stock": 5
+  },
+  { 
+    "id": 5, 
+    "title": "Esomeprazol 40 mg x 30 comprimidos",
+    "img":"https://www.raffo.com.ar/app/uploads/2019/05/1499195838.jpg", 
+    "price": 3000, 
+    "category": "Protector gastrico" , 
+    "description": "Esomeprazol pertenece a una clase de medicamentos llamados inhibidores de la bomba de protones Su acción consiste en disminuir la cantidad de ácido que se produce en el estómago al igual que el Omeprazol.",
+    "stock": 5
+  },
+  { "id": 6, 
+  "title": "Simeticona 200 mg x 20 comprimidos",
+  "img":"https://www.casasco.com.ar/wp-content/uploads/2015/09/Factor-AG-200.jpg",
+  "price": 600, 
+  "category": "Antiflatulento" , 
+  "description": "Simeticona se usa para tratar los síntomas de la flatulencia (gases) como el dolor o la incomodidad causados por la presión, la sensación de saciedad y la hinchazón abdominal.",
+  "stock": 5
+  }
+]
+
