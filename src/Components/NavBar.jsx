@@ -27,7 +27,7 @@ const NavBar = () => {
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto">
               <Link to="/Catalogue">
-                <Nav.Link>Catalogo</Nav.Link>
+                <Nav.Link href="#link">Catalogo</Nav.Link>
               </Link>
               <NavDropdown title="Categorias" id="basic-nav-dropdown">
                 <NavDropdown.Item href="#action/3.1">
